@@ -1,0 +1,3 @@
+D:/Desktop files/C++ tries/operations with files/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop files/C++ tries/operations with files/cmake-build-debug/CMakeFiles/operations_with_files.dir
+D:/Desktop files/C++ tries/operations with files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
